@@ -6,3 +6,7 @@
 <h1>Stats</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elrigor&show_icons=true&theme=dark&hide_border=True)
+
+<h1>Stats</h1>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elrigor)](https://github.com/anuraghazra/github-readme-stats)
