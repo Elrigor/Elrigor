@@ -6,8 +6,3 @@
 <h1>Stats</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elrigor&show_icons=true&theme=dark&hide_border=True)
-
-<h1>Most used languages</h1>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elrigor&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
