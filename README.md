@@ -7,4 +7,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elrigor&show_icons=true&theme=dark&hide_border=True)
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Elrigo&theme=dark&hide_border=true" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Elrigor&theme=dark&hide_border=true" />
