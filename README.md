@@ -1,6 +1,6 @@
 <!-- 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_banners/1584557518960951296/1667473810/1500x500" alt="my banner"></a>
+  <a href="https://www.robert.soy/" target="_blank" rel="noreferrer"><img src="https://pbs.twimg.com/profile_banners/1584557518960951296/1667473810/1500x500" alt="my banner"></a>
 </p>
 -->
 
@@ -25,7 +25,7 @@ I am a Full-Stack Developer, proficient in both front-end and back-end technolog
 
 ## 🌱 I'm currently learning
 
-- React Native
+- React Native  
 - NextJS
 
 ## 💼 Technical Skills
@@ -40,8 +40,8 @@ I am a Full-Stack Developer, proficient in both front-end and back-end technolog
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=7952B3)
+![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=38BDF8)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
 </br>
 
@@ -50,12 +50,31 @@ I am a Full-Stack Developer, proficient in both front-end and back-end technolog
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-## 📈 GitHub Stats 
+---
 
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Elrigor&theme=dark&hide_border=true" /> 
-   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elrigor&show_icons=true&theme=dark&hide_border=True)
-    
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Elrigor&row=2&column=3&theme=onestar&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+# 📊 GitHub Stats
 
+## 🔥 Activity & Contributions
+<details>
+  <summary>Show</summary>
+
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Elrigor&theme=dark&hide_border=true" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elrigor&theme=github_dark" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elrigor&bg_color=0d1117&color=ffffff&line=00eaff&point=ffffff&area=true&hide_border=true" />
+
+</details>
+
+## 📈 General Stats
+<details>
+  <summary>Show</summary>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Elrigor&show_icons=true&theme=dark&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elrigor&layout=compact&theme=dark&hide_border=true" />
+
+</details>
+
+---
 
